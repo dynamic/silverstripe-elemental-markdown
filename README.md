@@ -1,7 +1,10 @@
 
 # SilverStripe Elemental Markdown
 
-
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-markdown/v/stable)](https://packagist.org/packages/dynamic/silverstripe-elemental-markdown)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-elemental-markdown/downloads)](https://packagist.org/packages/dynamic/silverstripe-elemental-markdown)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-markdown/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-elemental-markdown)
+[![License](https://poser.pugx.org/dynamic/silverstripe-elemental-markdown/license)](https://packagist.org/packages/dynamic/silverstripe-elemental-markdown)
 
 ## Overview
 
